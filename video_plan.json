@@ -1,0 +1,25 @@
+{
+  "channel": "BilimX",
+  "video_title": "Uzayın En Büyük Gizemleri",
+  "format": "16:9",
+  "scenes": [
+    {
+      "scene": 1,
+      "duration": 8,
+      "visual": "Dünya uzaydan görünür",
+      "narration": "Uzay, insanlığın hâlâ çözemediği sayısız gizemle dolu."
+    },
+    {
+      "scene": 2,
+      "duration": 8,
+      "visual": "Gizemli bir kara delik",
+      "narration": "Kara delikler, ışığın bile kaçamadığı inanılmaz kozmik yapılardır."
+    },
+    {
+      "scene": 3,
+      "duration": 8,
+      "visual": "Satürn ve halkaları",
+      "narration": "Satürn'ün görkemli halkaları, Güneş Sistemi'nin en etkileyici manzaralarından biridir."
+    }
+  ]
+}
